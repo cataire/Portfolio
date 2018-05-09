@@ -1,0 +1,68 @@
+
+.portfolio-image {
+  margin: 30px;
+  width: 15rem;
+}
+
+.bio-text {
+  background-color: white;
+margin-top: 40px;
+}
+
+h4 {
+  color: grey;
+}
+
+.project-name {
+  font-size: 20px;
+  color: #4aaaa5;
+}
+
+
+.icons {
+  float: right;
+  width: 30px;
+}
+
+footer {
+  margin-top: 100px;
+  background-color: #d3d3d3;
+  color: grey;
+}
+
+.card {
+  width: 20rem;
+    margin: 10px;
+    -webkit-box-shadow: 4px 4px 5px 0px rgba(50, 52, 50, 0.64);
+    -moz-box-shadow:    4px 4px 5px 0px rgba(50, 52, 50, 0.64);
+    box-shadow:         4px 4px 5px 0px rgba(50, 52, 50, 0.64);
+    display: inline-block;
+}
+
+.inner {
+
+}
+
+.card-text {
+
+
+}
+.card-img-top {
+  max-height: 180px;
+  align: center;
+  width: 100%;
+  height: auto;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+.footer,
+.push {
+  height: 50px;
+}
